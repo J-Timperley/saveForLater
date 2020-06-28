@@ -1,10 +1,12 @@
-[
-  {
-    "Code": "TEST1",
-    "ColourId": 41071
-  },
-  {
-    "Code": "TEST2",
-    "ColourId": 55807
-  }
-]
+{
+  "products": [
+    {
+      "Code": "TEST1",
+      "ColourId": 41071
+    },
+    {
+      "Code": "TEST2",
+      "ColourId": 55807
+    }
+  ]
+}
